@@ -1,2 +1,2 @@
-## Algunos repositorios personales
-# Métodos Numéricos
+# Algunos repositorios personales
+## Métodos Numéricos
