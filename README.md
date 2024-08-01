@@ -1,2 +1,2 @@
-# MetodosNumericos
-Repositorio para el curso de Métodos Numéricos
+## Algunos repositorios personales
+# Métodos Numéricos
